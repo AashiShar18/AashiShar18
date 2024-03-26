@@ -1,16 +1,12 @@
-### Hi there 👋
+Hello there :)
 
-<!--
-**AashiShar18/AashiShar18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Aashita. Data/Business Analyst with expertise in analysis and reporting. During my 7 years’ experience I have :
+•	Queried data using SQL
+•	Generated reports and performed ad-hoc data analysis using SQL
+•	Developed dashboards on Tableau and Excel
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tools
+Language: SQL
+Database: Google BigQuery, Oracle, MySQL
+Visualization: Tableau
+AI Analytics Platforms : Alteryx
