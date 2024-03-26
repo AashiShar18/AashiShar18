@@ -26,6 +26,12 @@ I'm Aashita. Data/Business Analyst with expertise in analysis and reporting. Dur
 
 🛠️ Tools
 Language: SQL
+
+
 Database: Google BigQuery, Oracle, MySQL
+
+
 Visualization: Tableau
+
+
 AI Analytics Platforms : Alteryx
