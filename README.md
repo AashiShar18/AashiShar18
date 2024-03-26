@@ -12,7 +12,11 @@ I'm Aashita. Data/Business Analyst with expertise in analysis and reporting. Dur
 
 
 •	Queried data using SQL
+
+
 •	Generated reports and performed ad-hoc data analysis using SQL
+
+
 •	Developed dashboards on Tableau and Excel
 
 
